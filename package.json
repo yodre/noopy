@@ -1,0 +1,22 @@
+{
+  "name": "noopy",
+  "version": "1.0.0",
+  "description": "Because all peoples need noop.",
+  "main": "index.js",
+  "author": "Yodre",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yodre/noopy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yodre/noopy/issues"
+  },
+  "homepage": "https://github.com/yodre/noopy",
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
